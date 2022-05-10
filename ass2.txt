@@ -1,0 +1,16 @@
+Structures in C#
+===================
+1.structures are similar to classes
+2. it is also collection of members like variables,methods,constructors,properties etc
+3.structures are created by using struct keyword
+struct box
+{
+//members
+}
+//struct object
+struct_name object_name=new struct_name()
+struct_name object_name
+4.struct is the user-defined value type datatype
+5.sturcts are created as namespace members
+6.struct objects memory is allowcated on stack
+7. all premitive data types are struct types(int,float,double,short etc)
