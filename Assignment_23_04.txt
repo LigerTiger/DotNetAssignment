@@ -1,0 +1,24 @@
+Scenario
+Write a program that will capture 2 things from keyboard.
+1. Count of integers
+
+2. Input each integer one by one
+
+Assignment 1
+Code should capture all the integers and create an array. Output should be sorted array.
+
+Assignment 2
+Re-implement above (assignment 1) for floating point numbers.
+Assignment 3
+
+Output maximum and minimum number from an array of integers.
+
+Assignment 4
+Remove number from an array from specific index position. Program should ask (take input) user for specific index position via keyboard. If index
+
+position is out-of-bounds then, program should display error message in console.
+
+Assignment 5
+Insert number in array at specific index position. Program should ask (take input) user for specific index position via keyboard. If index position
+
+is out-of-bounds then, program should display error message in console.

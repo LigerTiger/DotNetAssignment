@@ -1,0 +1,10 @@
+1.Create a Console Project
+2.Create a class Product(productId,productName,price,stock)
+3.Create ProductRepository Class with following functions
+a. AddProduct()
+b. GetProductById()
+c.GetAllProducts()
+d.EditProduct() //edit the price and stock
+e.DeleteProduct()
+Note: implement the above functionalites using product array
+4.Create Test Class where write the menu driven code to test the ProductRepositry class functions.
