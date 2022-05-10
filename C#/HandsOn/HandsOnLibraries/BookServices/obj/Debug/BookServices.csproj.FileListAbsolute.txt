@@ -1,0 +1,6 @@
+E:\C#\HandsOn\HandsOnLibraries\BookServices\obj\Debug\BookServices.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnLibraries\BookServices\obj\Debug\BookServices.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnLibraries\BookServices\bin\Debug\BookServices.dll
+E:\C#\HandsOn\HandsOnLibraries\BookServices\bin\Debug\BookServices.pdb
+E:\C#\HandsOn\HandsOnLibraries\BookServices\obj\Debug\BookServices.dll
+E:\C#\HandsOn\HandsOnLibraries\BookServices\obj\Debug\BookServices.pdb

@@ -1,0 +1,16 @@
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.exe
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.deps.json
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.runtimeconfig.json
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.runtimeconfig.dev.json
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.dll
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\ref\HandsOnLinq.dll
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.pdb
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.AssemblyInfoInputs.cache
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.AssemblyInfo.cs
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.dll
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\ref\HandsOnLinq.dll
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.pdb
+E:\C#\HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.genruntimeconfig.cache

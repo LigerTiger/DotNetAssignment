@@ -1,0 +1,7 @@
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\bin\Debug\Lab_Assignment_Linq.exe.config
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\bin\Debug\Lab_Assignment_Linq.exe
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\bin\Debug\Lab_Assignment_Linq.pdb
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\obj\Debug\Lab_Assignment_Linq.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\obj\Debug\Lab_Assignment_Linq.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\obj\Debug\Lab_Assignment_Linq.exe
+E:\C#\HandsOn\Lab_Assignment_Linq\Lab_Assignment_Linq\obj\Debug\Lab_Assignment_Linq.pdb

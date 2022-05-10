@@ -1,0 +1,16 @@
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.exe
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.deps.json
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.runtimeconfig.json
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.runtimeconfig.dev.json
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.dll
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\ref\HandsOnConstructors.dll
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.pdb
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.AssemblyInfoInputs.cache
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.AssemblyInfo.cs
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.dll
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\ref\HandsOnConstructors.dll
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.pdb
+E:\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.genruntimeconfig.cache

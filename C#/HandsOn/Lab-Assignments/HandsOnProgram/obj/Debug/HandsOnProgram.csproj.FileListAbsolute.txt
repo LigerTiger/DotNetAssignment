@@ -1,0 +1,7 @@
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\bin\Debug\HandsOnProgram.exe.config
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\bin\Debug\HandsOnProgram.exe
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\bin\Debug\HandsOnProgram.pdb
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\obj\Debug\HandsOnProgram.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\obj\Debug\HandsOnProgram.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\obj\Debug\HandsOnProgram.exe
+E:\C#\HandsOn\Lab-Assignments\HandsOnProgram\obj\Debug\HandsOnProgram.pdb

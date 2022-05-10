@@ -1,0 +1,16 @@
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.AssemblyInfoInputs.cache
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.AssemblyInfo.cs
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.exe
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.deps.json
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.runtimeconfig.json
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.runtimeconfig.dev.json
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.dll
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\ref\HandsOnProperties.dll
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.pdb
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.dll
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\ref\HandsOnProperties.dll
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.pdb
+E:\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.genruntimeconfig.cache

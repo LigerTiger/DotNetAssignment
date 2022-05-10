@@ -1,0 +1,10 @@
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\bin\Debug\Book_Client.exe.config
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\bin\Debug\Book_Client.exe
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\bin\Debug\Book_Client.pdb
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\bin\Debug\BookServices.dll
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\bin\Debug\BookServices.pdb
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\obj\Debug\Book_Client.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\obj\Debug\Book_Client.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\obj\Debug\Book_Client.csproj.CopyComplete
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\obj\Debug\Book_Client.exe
+E:\C#\HandsOn\HandsOnLibraries\Book_Client\obj\Debug\Book_Client.pdb

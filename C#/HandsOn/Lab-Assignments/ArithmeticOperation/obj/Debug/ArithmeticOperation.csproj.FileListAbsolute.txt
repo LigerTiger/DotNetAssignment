@@ -1,0 +1,5 @@
+E:\C#\HandsOn\Lab-Assignments\ArithmeticOperation\bin\Debug\ArithmeticOperation.dll
+E:\C#\HandsOn\Lab-Assignments\ArithmeticOperation\bin\Debug\ArithmeticOperation.pdb
+E:\C#\HandsOn\Lab-Assignments\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\ArithmeticOperation\obj\Debug\ArithmeticOperation.dll
+E:\C#\HandsOn\Lab-Assignments\ArithmeticOperation\obj\Debug\ArithmeticOperation.pdb

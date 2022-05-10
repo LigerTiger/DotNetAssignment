@@ -1,0 +1,7 @@
+E:\C#\HandsOn\Lab-Assignments\BookDemo\bin\Debug\BookDemo.exe.config
+E:\C#\HandsOn\Lab-Assignments\BookDemo\bin\Debug\BookDemo.exe
+E:\C#\HandsOn\Lab-Assignments\BookDemo\bin\Debug\BookDemo.pdb
+E:\C#\HandsOn\Lab-Assignments\BookDemo\obj\Debug\BookDemo.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab-Assignments\BookDemo\obj\Debug\BookDemo.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\BookDemo\obj\Debug\BookDemo.exe
+E:\C#\HandsOn\Lab-Assignments\BookDemo\obj\Debug\BookDemo.pdb

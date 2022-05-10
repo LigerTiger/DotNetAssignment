@@ -1,0 +1,16 @@
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\Lab_Assignment_04.exe
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\Lab_Assignment_04.deps.json
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\Lab_Assignment_04.runtimeconfig.json
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\Lab_Assignment_04.runtimeconfig.dev.json
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\Lab_Assignment_04.dll
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\ref\Lab_Assignment_04.dll
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\bin\Debug\net5.0\Lab_Assignment_04.pdb
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.AssemblyInfoInputs.cache
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.AssemblyInfo.cs
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.dll
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\ref\Lab_Assignment_04.dll
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.pdb
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_04\obj\Debug\net5.0\Lab_Assignment_04.genruntimeconfig.cache

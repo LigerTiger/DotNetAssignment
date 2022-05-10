@@ -1,0 +1,7 @@
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\bin\Debug\TestSwitchCase.exe.config
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\bin\Debug\TestSwitchCase.exe
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\bin\Debug\TestSwitchCase.pdb
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\obj\Debug\TestSwitchCase.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\obj\Debug\TestSwitchCase.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\obj\Debug\TestSwitchCase.exe
+E:\C#\HandsOn\Lab-Assignments\TestSwitchCase\obj\Debug\TestSwitchCase.pdb

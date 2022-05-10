@@ -1,0 +1,10 @@
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\bin\Debug\Employee_Client.exe.config
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\bin\Debug\Employee_Client.exe
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\bin\Debug\Employee_Client.pdb
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\bin\Debug\EmployeeService.dll
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\bin\Debug\EmployeeService.pdb
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\obj\Debug\Employee_Client.csproj.AssemblyReference.cache
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\obj\Debug\Employee_Client.csproj.CoreCompileInputs.cache
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\obj\Debug\Employee_Client.csproj.CopyComplete
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\obj\Debug\Employee_Client.exe
+C:\Users\casc\source\repos\HandOnLibrary_25_04\Employee_Client\obj\Debug\Employee_Client.pdb

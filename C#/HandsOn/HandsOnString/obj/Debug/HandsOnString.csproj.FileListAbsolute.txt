@@ -1,0 +1,7 @@
+E:\C#\HandsOn\HandsOnString\bin\Debug\HandsOnString.exe.config
+E:\C#\HandsOn\HandsOnString\bin\Debug\HandsOnString.exe
+E:\C#\HandsOn\HandsOnString\bin\Debug\HandsOnString.pdb
+E:\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.exe
+E:\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.pdb
+E:\C#\HandsOn\HandsOnString\obj\Debug\HandsOnString.csproj.AssemblyReference.cache

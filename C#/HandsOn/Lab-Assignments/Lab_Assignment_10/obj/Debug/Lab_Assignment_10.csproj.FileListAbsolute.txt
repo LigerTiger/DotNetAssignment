@@ -1,0 +1,6 @@
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_10\bin\Debug\Lab_Assignment_10.exe.config
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_10\bin\Debug\Lab_Assignment_10.exe
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_10\bin\Debug\Lab_Assignment_10.pdb
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_10\obj\Debug\Lab_Assignment_10.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_10\obj\Debug\Lab_Assignment_10.exe
+E:\C#\HandsOn\Lab-Assignments\Lab_Assignment_10\obj\Debug\Lab_Assignment_10.pdb

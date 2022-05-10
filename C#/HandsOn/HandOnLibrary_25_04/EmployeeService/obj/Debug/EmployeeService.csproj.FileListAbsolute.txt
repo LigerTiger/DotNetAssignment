@@ -1,0 +1,6 @@
+C:\Users\casc\source\repos\HandOnLibrary_25_04\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\casc\source\repos\HandOnLibrary_25_04\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\casc\source\repos\HandOnLibrary_25_04\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\casc\source\repos\HandOnLibrary_25_04\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\casc\source\repos\HandOnLibrary_25_04\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\casc\source\repos\HandOnLibrary_25_04\EmployeeService\obj\Debug\EmployeeService.pdb

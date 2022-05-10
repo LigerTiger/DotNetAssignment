@@ -1,0 +1,10 @@
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\bin\Debug\StudentSolution.exe.config
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\bin\Debug\StudentSolution.exe
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\bin\Debug\StudentSolution.pdb
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\bin\Debug\StudentEntity.dll
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\bin\Debug\StudentEntity.pdb
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\obj\Debug\StudentSolution.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\obj\Debug\StudentSolution.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\obj\Debug\StudentSolution.csproj.CopyComplete
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\obj\Debug\StudentSolution.exe
+E:\C#\HandsOn\Lab-Assignments\StudentSolution\obj\Debug\StudentSolution.pdb

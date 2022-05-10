@@ -1,0 +1,7 @@
+E:\C#\HandsOn\HandsOnLinq\Practice\bin\Debug\Practice.exe.config
+E:\C#\HandsOn\HandsOnLinq\Practice\bin\Debug\Practice.exe
+E:\C#\HandsOn\HandsOnLinq\Practice\bin\Debug\Practice.pdb
+E:\C#\HandsOn\HandsOnLinq\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnLinq\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnLinq\Practice\obj\Debug\Practice.exe
+E:\C#\HandsOn\HandsOnLinq\Practice\obj\Debug\Practice.pdb

@@ -1,0 +1,7 @@
+E:\C#\HandsOn\HandsOnDataTypes\bin\Debug\HandsOnDataTypes.exe.config
+E:\C#\HandsOn\HandsOnDataTypes\bin\Debug\HandsOnDataTypes.exe
+E:\C#\HandsOn\HandsOnDataTypes\bin\Debug\HandsOnDataTypes.pdb
+E:\C#\HandsOn\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.exe
+E:\C#\HandsOn\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.pdb

@@ -1,0 +1,7 @@
+E:\C#\HandsOn\HandsOnAssignment_22_04\obj\Debug\HandsOnAssignment_22_04.csproj.AssemblyReference.cache
+E:\C#\HandsOn\HandsOnAssignment_22_04\obj\Debug\HandsOnAssignment_22_04.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\HandsOnAssignment_22_04\bin\Debug\HandsOnAssignment_22_04.exe.config
+E:\C#\HandsOn\HandsOnAssignment_22_04\bin\Debug\HandsOnAssignment_22_04.exe
+E:\C#\HandsOn\HandsOnAssignment_22_04\bin\Debug\HandsOnAssignment_22_04.pdb
+E:\C#\HandsOn\HandsOnAssignment_22_04\obj\Debug\HandsOnAssignment_22_04.exe
+E:\C#\HandsOn\HandsOnAssignment_22_04\obj\Debug\HandsOnAssignment_22_04.pdb

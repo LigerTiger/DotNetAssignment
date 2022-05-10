@@ -1,0 +1,6 @@
+E:\C#\HandsOn\Lab-Assignments\StudentEntity\bin\Debug\StudentEntity.dll
+E:\C#\HandsOn\Lab-Assignments\StudentEntity\bin\Debug\StudentEntity.pdb
+E:\C#\HandsOn\Lab-Assignments\StudentEntity\obj\Debug\StudentEntity.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\StudentEntity\obj\Debug\StudentEntity.dll
+E:\C#\HandsOn\Lab-Assignments\StudentEntity\obj\Debug\StudentEntity.pdb
+E:\C#\HandsOn\Lab-Assignments\StudentEntity\obj\Debug\StudentEntity.csproj.AssemblyReference.cache
